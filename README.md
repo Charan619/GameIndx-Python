@@ -10,6 +10,7 @@
 # Sample Plots Information
   
   - Linear and Decision Tree Regression has been implemented for review data of [**Among Us**](https://store.steampowered.com/app/945360/Among_Us/) Game
+    - [View Plot](https://htmlpreview.github.io/?https://github.com/DeepanNarayanaMoorthy/GamerHood-Python-backend/blob/main/samples%20of%20generated%20plots/kmeans_plot.html)
   - KMeans Clustering has been Implemented for games related to [**GTA V**](https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/) with respect to similar popular tags.
     - Clustering Parameters Used
       - Number of Positive Reviews
