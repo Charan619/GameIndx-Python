@@ -4,7 +4,7 @@
   - This repo also contains scripts used for scraping and cleaning all game related information from [Steam Official Website](https://store.steampowered.com/)
   - Compiled Dataset can be found here: [80000 Steam Games DataSet](https://www.kaggle.com/deepann/80000-steam-games-dataset)
   - Machine Learning Part has been implemented using **PySpark** and Database Handling part has been implemented using **MongoDB Atlas**
-  - Recommendation using Alternating Least Squares (ALS) has been implemented on Game Data and Game User Data using PySpark
+  - Recommendation using **Alternating Least Squares (ALS)** has been implemented on Game Data and Game User Data using PySpark
   
 # Sample Plots Information
   
