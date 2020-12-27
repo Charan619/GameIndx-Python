@@ -5,6 +5,7 @@
   - Compiled Dataset can be found here: [80000 Steam Games DataSet](https://www.kaggle.com/deepann/80000-steam-games-dataset)
   - Machine Learning Part has been implemented using **PySpark** and Database Handling part has been implemented using **MongoDB Atlas**
   - Recommendation using **Alternating Least Squares (ALS)** has been implemented on Game Data and Game User Data using PySpark
+  - Dynamic Determination of Appropriate number of Clusters for K-Means Clustering using Elbow Method has been implemented
   
 # Sample Plots Information
   
