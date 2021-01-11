@@ -7,7 +7,7 @@ scipy==1.4.1
 nltk==3.5
 textblob==0.15.3
 pandas==1.0.4
-lxml==4.5.1
+lxml>=4.6.2
 kneed==0.7.0
 pymongo==3.11.0
 numpy==1.18.4
