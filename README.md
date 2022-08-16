@@ -1,4 +1,5 @@
-# GamerHood-Python-backend [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ce4CBL9h_X7-pQrt2Y1EPHku65Qe1qyt?usp=sharing]
+# GamerHood-Python-backend 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ce4CBL9h_X7-pQrt2Y1EPHku65Qe1qyt?usp=sharing]
 
 
   - This repo contains backend machine learning based scripts used for game analysis and recommendation for the project GamerHood
