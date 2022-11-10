@@ -3,7 +3,7 @@
 
 
   - This repo contains backend machine learning based scripts used for game analysis and recommendation for the project 
-  - **GamerHood**, a web application built with **PySpark(Python)** (WIP) for game analysis and recommendations. This enables users to access game information and related content and, based on their behaviour, get suggested games. This utilizes the help of **MongoDB Atlas** for managing databases and algorithms like clustering, regression, recommendation engine for analysis. 
+  - **GameIndx**, a web application built with **PySpark(Python)** (WIP) for game analysis and recommendations. This enables users to access game information and related content and, based on their behaviour, get suggested games. This utilizes the help of **MongoDB Atlas** for managing databases and algorithms like clustering, regression, recommendation engine for analysis. 
   - This repo also contains scripts used for scraping and cleaning all game related information from [Steam Official Website](https://store.steampowered.com/)
   - Compiled Dataset can be found here: [80000 Steam Games DataSet](https://www.kaggle.com/deepann/80000-steam-games-dataset)
   - Machine Learning Part has been implemented using **PySpark** and Database Handling part has been implemented using **MongoDB Atlas**
